@@ -12,7 +12,7 @@ class TestListMethods(unittest.TestCase):
         self.assertEqual(2, 2)
 
     def test_maksym_orzhahivsky_fi_93(self):
-        self.assertEqual(sum([1,2,3])/len([1,2,3]),1
+        self.assertEqual(sum([1,2,3])/len([1,2,3]),2)
 
 
 if __name__ == '__main__':
